@@ -1,8 +1,7 @@
 package com.example.demo.sample.filter;
 
 import java.math.BigDecimal;
-import com.waug.cube.v1.goods.enums.Currency;
-import com.waug.cube.v1.goods.option.enums.SaleType;
+import java.util.Currency;
 import lombok.Getter;
 import lombok.Setter;
 
